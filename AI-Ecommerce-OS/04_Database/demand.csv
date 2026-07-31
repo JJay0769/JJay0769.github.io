@@ -1,0 +1,2 @@
+demand_id,short_name,persona,scenario,source,source_url,evidence,frequency,severity,current_solution,pain_point,desired_outcome,keywords,product_direction,status,created_at
+demand-001,pet-hair,养猫家庭,沙发除毛,amazon_review,https://example.com/r/1,"粘不干净还费耗材",23,4,滚筒粘纸,耗材贵且反复,一次清净且可复用,cat hair|sofa,静电除毛器,待验证,2026-07-31

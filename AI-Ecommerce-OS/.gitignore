@@ -1,0 +1,48 @@
+# ===== AI-Ecommerce-OS .gitignore =====
+
+# --- 依赖 ---
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# --- 构建产物 ---
+dist/
+build/
+.next/
+.cache/
+
+# --- 编辑器 / 系统 ---
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# --- 日志与临时文件 ---
+*.log
+logs/
+tmp/
+temp/
+
+# --- 敏感数据 / 密钥 ---
+secrets/
+*.key
+*.pem
+credentials.json
+# 注意：04_Database 中的 CSV 若含商业敏感数据，建议自行加密或加入此清单
+
+# --- 大文件 / 二进制素材（按需启用） ---
+# 06_Content/Videos/*.mp4
+# 06_Content/Images/*.psd
+
+# --- 第三方平台本地缓存 ---
+.n8n/
+shopify-themes/node_modules/
+
+# --- 操作系统临时 ---
+~$*
