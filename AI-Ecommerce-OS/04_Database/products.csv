@@ -1,0 +1,2 @@
+product_id,name,category,demand_id,persona,usp,differentiation,cost_usd,price_usd,margin_pct,fulfillment,weight_g,compliance_risk,seasonality,competition_level,status,created_at
+product-001,可水洗静电除毛器,宠物用品,demand-001,养猫家庭,可水洗复用+静电吸附,无耗材可复用,2.5,19.9,75,海外仓,180,低,全年平稳,3,候选,2026-07-31

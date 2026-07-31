@@ -1,0 +1,2 @@
+supplier_id,product_id,name,platform,moq,unit_price_usd,sample_fee_usd,lead_time_days,rating,compliance,return_policy,status
+supplier-001,product-001,示例宠物用品厂,1688,500,2.5,15,15,4.7,有质检报告,7天包换,候选
